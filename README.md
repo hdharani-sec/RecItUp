@@ -1,2 +1,2 @@
 # RecItUp
-Stramlined Workflow of the Reconnaissance Phase of a Penetration Test
+Streamlined Workflow of the Reconnaissance Phase of a Penetration Test. This is a continuous development project where new features and services will be added. The goal of this project is to automate the reconnaissance phase of a penetration test as comprehensively and quickly as possible. The idea is not to replace reconnaissance completely, but to leverage this project to perform deeper reconnaissance.
