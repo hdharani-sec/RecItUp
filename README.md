@@ -33,8 +33,12 @@ chmod +x recon.sh
 
 # Output
 Subfinder Results: recon/subfinder.txt
+
 Assetfinder Results: recon/assetfinder.txt
+
 Combined Subdomains: recon/final.txt
+
 Live Subdomains: recon/alive.txt
+
 Open Ports: recon/nmap.txt
 
