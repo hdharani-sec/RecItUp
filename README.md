@@ -11,8 +11,11 @@ Scan for Open Ports: Uses nmap to find open ports on live subdomains
 Before using this script, ensure you have the following tools installed:
 
 subfinder
+
 assetfinder
+
 httprobe
+
 nmap
 
 
