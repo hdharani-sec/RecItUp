@@ -3,5 +3,5 @@ Streamlined workflow of the reconnaissance phase of a penetration test. This is 
 
 
 # Usage
-## ./rec.sh example.com
+./rec.sh example.com
 
