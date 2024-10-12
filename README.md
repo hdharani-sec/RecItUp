@@ -3,8 +3,11 @@ A simple Bash script for recon and enumeration of subdomains. This script automa
 
 # Features
 Find Subdomains: Uses subfinder and assetfinder to gather subdomains.
+
 Combine & Remove Duplicates: Merges results from multiple sources and removes duplicates.
+
 Check for Live Subdomains: Uses httprobe to verify which subdomains are alive.
+
 Scan for Open Ports: Uses nmap to find open ports on live subdomains
 
 # Prerequisites
