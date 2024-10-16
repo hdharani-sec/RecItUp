@@ -19,3 +19,16 @@ Clone this repository and navigate into the cloned directory:
 ```bash
 git clone https://github.com/hdharani-sec/RecItUp.git
 cd RecItUp
+chmod +x recon.sh
+```
+## Usage
+Run the script using:
+```bash
+./recon.sh example.com
+```
+## Output
+- `Subfinder Results: recon/subfinder.txt`
+- `Assetfinder Results: recon/assetfinder.txt`
+- `Combined Subdomains: recon/final.txt`
+- `Live Subdomains: recon/alive.txt`
+- `Open Ports: recon/nmap.txt`
