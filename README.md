@@ -24,13 +24,13 @@ nmap
 # Installation
 Clone this repository and navigate into the cloned directory:
 
-git clone https://github.com/hdharani-sec/RecItUp.git
+> git clone https://github.com/hdharani-sec/RecItUp.git
 
-cd repo-name
+> cd repo-name
 
 Make the script executable:
 
-chmod +x recon.sh
+> chmod +x recon.sh
 
 # Usage
 ./rec.sh example.com
